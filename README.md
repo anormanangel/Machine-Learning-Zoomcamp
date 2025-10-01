@@ -1,3 +1,5 @@
 # Machine-Learning-Zoomcamp
 
-This repo contains home work for Machine Learning Zoomcamp by Data Talk Club
+Machine Learning Zoomcamp: A Free 4-Month Course on ML Engineering
+
+![Uploading image.png…]()
