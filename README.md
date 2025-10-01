@@ -18,6 +18,6 @@ Part 2: Model Deployment
 - Cloud deployment on AWS Lambda
 - Orchestration with Kubernetes
 
-### Key tools: FastAPI, Docker, AWS Lambda, Kubernetes, TensorFlow Runtime
+### Key tools: Python, FastAPI, Docker, AWS Lambda, Kubernetes, TensorFlow Runtime
 
 
