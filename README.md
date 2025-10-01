@@ -1,5 +1,22 @@
 # Machine-Learning-Zoomcamp
 
-Machine Learning Zoomcamp: A Free 4-Month Course on ML Engineering
+This repo contains all my commit for Machine Learning Zoomcamp is a free 4-month course teaching machine learning engineering. I am using Python for machine learning engineering through to production deployment, build real projects, and join a supportive community. The next cohort starts on September 15, 2025.
 
-![Uploading image.png…]()
+The structure
+
+Part 1: Machine Learning Fundamentals
+Linear regression and feature engineering
+Classification and model evaluation
+Decision trees and ensemble learning
+Neural networks and deep learning
+Key tools: Python, NumPy, Pandas, Scikit-Learn, TensorFlow, PyTorch
+
+Part 2: Model Deployment
+Web services with FastAPI
+Containerization with Docker
+Cloud deployment on AWS Lambda
+Orchestration with Kubernetes
+
+Key tools: FastAPI, Docker, AWS Lambda, Kubernetes, TensorFlow Runtime
+
+
