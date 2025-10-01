@@ -1,6 +1,6 @@
 # Machine-Learning-Zoomcamp
 
-This repo contains all my commit for Machine Learning Zoomcamp is a free 4-month course teaching machine learning engineering. I am using Python for machine learning engineering through to production deployment, build real projects, and join a supportive community. 
+This repo contains all my commit for Machine Learning Zoomcamp, a free 4-month course teaching machine learning engineering. I am using Python for machine learning engineering through to production deployment, build real projects, and join a supportive community. 
 
 
 The structure
