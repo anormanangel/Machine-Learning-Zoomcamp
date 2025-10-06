@@ -1,3 +1,4 @@
+```markdown
 <a id="readme-top"></a>
 
 <div align="center">
@@ -5,15 +6,20 @@
   
   # Machine-Learning-Zoomcamp
   
-  ### Learning Machine Learning Engieering in Four Month from from Data Talk Club
+  ### Learning Machine Learning Engineering in Four Months from Data Talk Club
   
- [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stars][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/anormanangel/]
-[![Twitter][twitter-shield]][https://x.com/anormanangel]
+  [![Contributors][contributors-shield]][contributors-url]
+  [![Forks][forks-shield]][forks-url]
+  [![Stars][stars-shield]][stars-url]
+  [![Issues][issues-shield]][issues-url]
+  [![License][license-shield]][license-url]
+  [![LinkedIn][linkedin-shield]][linkedin-url]
+  [![Twitter][twitter-shield]][twitter-url]
+
+  [<img src="https://img.shields.io/badge/Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Course Playlist" />](https://www.youtube.com/watch?v=Crm_5n4mvmg&list=PL3MmuxUbc_hIhxl5Ji8t4O6lPAOpHaCLR&index=4)
+  [<img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code" />](https://github.com/anormanangel/Machine-Learning-Zoomcamp)
+  [<img src="https://img.shields.io/badge/Report_Bug-F44336?style=for-the-badge&logo=bug&logoColor=white" alt="Report Bug" />](https://github.com/anormanangel/Machine-Learning-Zoomcamp/issues)
+</div>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [contributors-shield]: https://img.shields.io/github/contributors/anormanangel/Machine-Learning-Zoomcamp.svg?style=for-the-badge
@@ -27,13 +33,9 @@
 [license-shield]: https://img.shields.io/github/license/anormanangel/Machine-Learning-Zoomcamp.svg?style=for-the-badge
 [license-url]: https://github.com/anormanangel/Machine-Learning-Zoomcamp/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[linkedin-url]: https://www.linkedin.com/in/anormanangel/
 [twitter-shield]: https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white
-
-  [<img src="https://img.shields.io/badge/Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Course Playlist" />](https://www.youtube.com/watch?v=Crm_5n4mvmg&list=PL3MmuxUbc_hIhxl5Ji8t4O6lPAOpHaCLR&index=4)
-  [<img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code" />](https://github.com/anormanangel/Machine-Learning-Zoomcamp)
-  [<img src="https://img.shields.io/badge/Report_Bug-F44336?style=for-the-badge&logo=bug&logoColor=white" alt="Report Bug" />](https://github.com/anormanangel/Machine-Learning-Zoomcamp/issues)
-</div>
-
+[twitter-url]: https://x.com/anormanangel
 
 
 # Machine-Learning-Zoomcamp
