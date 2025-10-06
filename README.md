@@ -36,6 +36,7 @@
 [linkedin-url]: https://www.linkedin.com/in/anormanangel/
 [twitter-shield]: https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white
 [twitter-url]: https://x.com/anormanangel
+```
 
 
 # Machine-Learning-Zoomcamp
