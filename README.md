@@ -43,6 +43,8 @@
 [twitter-shield]: https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white
 [twitter-url]: https://x.com/anormanangel
 
+---
+
 ## 📋 Table of Contents
 
 - [📚 Course Structure](#course-structure)  
@@ -57,3 +59,4 @@
     - [07 – Containerization with Docker](#07--containerization-with-docker)  
     - [08 – Cloud Deployment on AWS Lambda](#08--cloud-deployment-on-aws-lambda)  
     - [09 – Orchestration with Kubernetes](#09--orchestration-with-kubernetes)  
+    ---
