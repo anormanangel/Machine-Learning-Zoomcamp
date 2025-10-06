@@ -58,3 +58,58 @@
     - [08 – Cloud Deployment on AWS Lambda](#08--cloud-deployment-on-aws-lambda)  
     - [09 – Orchestration with Kubernetes](#09--orchestration-with-kubernetes)  
 
+## Built With
+
+<div align="center">
+
+  [![Python][Python-shield]][Python-url] 
+  [![NumPy][NumPy-shield]][NumPy-url] 
+  [![Pandas][Pandas-shield]][Pandas-url] 
+  [![Scikit-Learn][Scikit-shield]][Scikit-url] 
+  [![TensorFlow][TensorFlow-shield]][TensorFlow-url] 
+  [![PyTorch][PyTorch-shield]][PyTorch-url] 
+  [![FastAPI][FastAPI-shield]][FastAPI-url] 
+  [![Docker][Docker-shield]][Docker-url] 
+  [![AWS Lambda][AWS-shield]][AWS-url] 
+  [![Kubernetes][Kubernetes-shield]][Kubernetes-url] 
+  [![TensorFlow Runtime][TFRuntime-shield]][TFRuntime-url]
+
+</div>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- BADGES LINKS -->
+[Python-shield]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+[Python-url]: https://www.python.org/
+
+[NumPy-shield]: https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white
+[NumPy-url]: https://numpy.org/
+
+[Pandas-shield]: https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white
+[Pandas-url]: https://pandas.pydata.org/
+
+[Scikit-shield]: https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white
+[Scikit-url]: https://scikit-learn.org/
+
+[TensorFlow-shield]: https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
+[TensorFlow-url]: https://www.tensorflow.org/
+
+[PyTorch-shield]: https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white
+[PyTorch-url]: https://pytorch.org/
+
+[FastAPI-shield]: https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white
+[FastAPI-url]: https://fastapi.tiangolo.com/
+
+[Docker-shield]: https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
+[Docker-url]: https://www.docker.com/
+
+[AWS-shield]: https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws&logoColor=white
+[AWS-url]: https://aws.amazon.com/lambda/
+
+[Kubernetes-shield]: https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white
+[Kubernetes-url]: https://kubernetes.io/
+
+[TFRuntime-shield]: https://img.shields.io/badge/TensorFlow_Runtime-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
+[TFRuntime-url]: https://www.tensorflow.org/tfx/runtime
+
+
