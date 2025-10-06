@@ -5,7 +5,7 @@
 
   # Machine Learning Zoomcamp
 
-  ### Machine Learning Engineering in Four Months with DataTalks.Club
+  ### Norman Angel - Data Scientist 
 
   [![Contributors][contributors-shield]][contributors-url]
   [![Forks][forks-shield]][forks-url]
