@@ -5,7 +5,7 @@
 
   # Machine Learning Zoomcamp
 
-  ### Learning Machine Learning Engineering in Four Months with DataTalks.Club
+  ### Machine Learning Engineering in Four Months with DataTalks.Club
 
   [![Contributors][contributors-shield]][contributors-url]
   [![Forks][forks-shield]][forks-url]
