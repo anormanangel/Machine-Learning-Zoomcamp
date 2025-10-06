@@ -43,29 +43,17 @@
 [twitter-shield]: https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white
 [twitter-url]: https://x.com/anormanangel
 
+## 📋 Table of Contents
 
-
-
-# Machine-Learning-Zoomcamp
-
-This repo contains all my commit for Machine Learning Zoomcamp, a free 4-month course teaching machine learning engineering. I am using Python for machine learning engineering through to production deployment, build real projects, and join a supportive community. 
-
-
-The structure
-
-Part 1: Machine Learning Fundamentals
-- Linear regression and feature engineering
-- Classification and model evaluation
-- Decision trees and ensemble learning
-- Neural networks and deep learning
-- Key tools: Python, NumPy, Pandas, Scikit-Learn, TensorFlow, PyTorch
-
-Part 2: Model Deployment
-- Web services with FastAPI
-- Containerization with Docker
-- Cloud deployment on AWS Lambda
-- Orchestration with Kubernetes
-
-### Key tools: Python, FastAPI, Docker, AWS Lambda, Kubernetes, TensorFlow Runtime
-
-
+- [📚 Course Structure](#course-structure)  
+  - [Part 1: Machine Learning Foundations](#part-1-machine-learning-foundations)  
+    - [01 – Introduction](#01--introduction)  
+    - [02 – Linear Regression & Feature Engineering](#02--linear-regression--feature-engineering)  
+    - [03 – Classification & Model Evaluation](#03--classification--model-evaluation)  
+    - [04 – Decision Trees & Ensemble Learning](#04--decision-trees--ensemble-learning)  
+    - [05 – Neural Networks & Deep Learning](#05--neural-networks--deep-learning)  
+  - [Part 2: Model Deployment](#part-2-model-deployment)  
+    - [06 – Web Services with FastAPI](#06--web-services-with-fastapi)  
+    - [07 – Containerization with Docker](#07--containerization-with-docker)  
+    - [08 – Cloud Deployment on AWS Lambda](#08--cloud-deployment-on-aws-lambda)  
+    - [09 – Orchestration with Kubernetes](#09--orchestration-with-kubernetes)  
