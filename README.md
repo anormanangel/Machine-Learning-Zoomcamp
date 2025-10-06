@@ -1,7 +1,7 @@
 <a id="readme-top"></a>
 
 <div align="center">
-  <img src="ml_zoomcamp_overview_horizontal_2025.png" alt="ML Zoomcamp Tech Stack" width="120" height="120">
+  <img src="ml_zoomcamp_overview_horizontal_2025.png" alt="ML Zoomcamp Tech Stack" width="250" height="250">
 
   # Machine Learning Zoomcamp
 
