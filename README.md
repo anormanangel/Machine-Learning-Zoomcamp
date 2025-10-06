@@ -1,13 +1,12 @@
-```markdown
 <a id="readme-top"></a>
 
 <div align="center">
   <img src="ml_zoomcamp_overview_horizontal_2025.png" alt="ML Zoomcamp Tech Stack" width="120" height="120">
-  
-  # Machine-Learning-Zoomcamp
-  
-  ### Learning Machine Learning Engineering in Four Months from Data Talk Club
-  
+
+  # Machine Learning Zoomcamp
+
+  ### Learning Machine Learning Engineering in Four Months with DataTalks.Club
+
   [![Contributors][contributors-shield]][contributors-url]
   [![Forks][forks-shield]][forks-url]
   [![Stars][stars-shield]][stars-url]
@@ -20,6 +19,8 @@
   [<img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code" />](https://github.com/anormanangel/Machine-Learning-Zoomcamp)
   [<img src="https://img.shields.io/badge/Report_Bug-F44336?style=for-the-badge&logo=bug&logoColor=white" alt="Report Bug" />](https://github.com/anormanangel/Machine-Learning-Zoomcamp/issues)
 </div>
+
+---
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [contributors-shield]: https://img.shields.io/github/contributors/anormanangel/Machine-Learning-Zoomcamp.svg?style=for-the-badge
@@ -36,7 +37,7 @@
 [linkedin-url]: https://www.linkedin.com/in/anormanangel/
 [twitter-shield]: https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white
 [twitter-url]: https://x.com/anormanangel
-```
+
 
 
 # Machine-Learning-Zoomcamp
