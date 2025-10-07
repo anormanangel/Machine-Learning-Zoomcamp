@@ -5,7 +5,7 @@
 
   # Machine Learning Zoomcamp
 
-  ### Norman Angel - Data Scientist 
+  ### Norman Angel | Data Scientist 
 
   [![Contributors][contributors-shield]][contributors-url]
   [![Forks][forks-shield]][forks-url]
