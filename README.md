@@ -50,13 +50,14 @@
     - [01 – Introduction](https://github.com/anormanangel/Machine-Learning-Zoomcamp/tree/main/01-Intro)  
     - [02 – Linear Regression & Feature Engineering](https://github.com/anormanangel/Machine-Learning-Zoomcamp/tree/main/02-Regression)  
     - [03 – Classification & Model Evaluation](https://github.com/anormanangel/Machine-Learning-Zoomcamp/tree/main/03-Classification)  
-    - [04 – Decision Trees & Ensemble Learning](#04--decision-trees--ensemble-learning)  
-    - [05 – Neural Networks & Deep Learning](#05--neural-networks--deep-learning)  
+    - [04 – Evaluation Metrics for Classification](#04--decision-trees--ensemble-learning)  
+    - [05 – Deploying Machine Learning Models](#05--neural-networks--deep-learning) 
+    - [06 – Decision Trees and Ensemble Learning ](#05--neural-networks--deep-learning) 
   - [Part 2: Model Deployment](#part-2-model-deployment)  
-    - [06 – Web Services with FastAPI](#06--web-services-with-fastapi)  
-    - [07 – Containerization with Docker](#07--containerization-with-docker)  
-    - [08 – Cloud Deployment on AWS Lambda](#08--cloud-deployment-on-aws-lambda)  
-    - [09 – Orchestration with Kubernetes](#09--orchestration-with-kubernetes)  
+    - [07 – Neural Networks and Deep Learning](#06--web-services-with-fastapi)  
+    - [08 – Serverless Deep Learning](#07--containerization-with-docker)  
+    - [09 – Kubernetes and TensorFlow Serving](#08--cloud-deployment-on-aws-lambda)  
+   
 
 ## Tools
 
