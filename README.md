@@ -47,7 +47,7 @@
 
 - [📚 Course Structure](#course-structure)  
   - [Part 1: Machine Learning Foundations](#part-1-machine-learning-foundations)  
-    - [01 – Introduction](#01--introduction)  
+    - [01 – Introduction](https://github.com/anormanangel/Machine-Learning-Zoomcamp/tree/main/01-Intro)  
     - [02 – Linear Regression & Feature Engineering](#02--linear-regression--feature-engineering)  
     - [03 – Classification & Model Evaluation](#03--classification--model-evaluation)  
     - [04 – Decision Trees & Ensemble Learning](#04--decision-trees--ensemble-learning)  
