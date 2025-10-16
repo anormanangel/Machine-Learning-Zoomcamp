@@ -50,7 +50,7 @@
     - [01 – Introduction](https://github.com/anormanangel/Machine-Learning-Zoomcamp/tree/main/01-Intro)  
     - [02 – Linear Regression & Feature Engineering](https://github.com/anormanangel/Machine-Learning-Zoomcamp/tree/main/02-Regression)  
     - [03 – Classification & Model Evaluation](https://github.com/anormanangel/Machine-Learning-Zoomcamp/tree/main/03-Classification)  
-    - [04 – Evaluation Metrics for Classification](#04--decision-trees--ensemble-learning)  
+    - [04 – Evaluation Metrics for Classification](https://github.com/anormanangel/Machine-Learning-Zoomcamp/tree/main/04-Evaluation)  
   - [Part 2: Model Deployment](#part-2-model-deployment)  
     - [05 – Deploying Machine Learning Models](#05--neural-networks--deep-learning) 
     - [06 – Decision Trees and Ensemble Learning ](#05--neural-networks--deep-learning) 
