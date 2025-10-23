@@ -53,10 +53,10 @@
     - [04 – Evaluation Metrics for Classification](https://github.com/anormanangel/Machine-Learning-Zoomcamp/tree/main/04-Evaluation)  
   - [Part 2: Model Deployment](#part-2-model-deployment)  
     - [05 – Deploying Machine Learning Models](https://github.com/anormanangel/Machine-Learning-Zoomcamp/tree/main/05-Deployment) 
-    - [06 – Decision Trees and Ensemble Learning ](#05--neural-networks--deep-learning) 
-    - [07 – Neural Networks and Deep Learning](#06--web-services-with-fastapi)  
-    - [08 – Serverless Deep Learning](#07--containerization-with-docker)  
-    - [09 – Kubernetes and TensorFlow Serving](#08--cloud-deployment-on-aws-lambda)  
+    - [07 – Decision Trees and Ensemble Learning ](#05--neural-networks--deep-learning) 
+    - [08 – Neural Networks and Deep Learning](#06--web-services-with-fastapi)  
+    - [09 – Serverless Deep Learning](#07--containerization-with-docker)  
+    - [10 – Kubernetes and TensorFlow Serving](#08--cloud-deployment-on-aws-lambda)  
    
 
 ## Tools
