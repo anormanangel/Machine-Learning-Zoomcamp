@@ -5,11 +5,12 @@ name = "pypi"
 
 [packages]
 numpy = "*"
-flask = "*"
 scikit-learn = "*"
 gunicorn = "*"
+flask = "*"
 
 [dev-packages]
+awsebcli = "*"
 
 [requires]
-python_version = "3.13"
+python_version = "3.8"
