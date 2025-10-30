@@ -5,11 +5,11 @@ WORKDIR /app
 # Copy dependency files
 COPY pyproject.toml uv.lock ./
 
-# Install uv and project dependencies (no bash subshell)
+# Install uv and dependencies
 RUN pip install uv && uv pip install --all-extras .
 
-# Copy your FastAPI app
-COPY main.py .
+# Copy FastAPI app and model
+COPY main.py pipeline_v1.bin ./
 
 EXPOSE 9696
 
