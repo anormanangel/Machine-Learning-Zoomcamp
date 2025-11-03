@@ -1,9 +1,14 @@
 import pickle
+import os
 from fastapi import FastAPI
 from pydantic import BaseModel
 
+# Get the directory where main.py is located
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+PIPELINE_PATH = os.path.join(BASE_DIR, "pipeline_v1.bin")
+
 # Load the pipeline
-with open("pipeline_v1.bin", "rb") as f_in:
+with open(PIPELINE_PATH, "rb") as f_in:
     pipeline = pickle.load(f_in)
 
 # Create FastAPI app
